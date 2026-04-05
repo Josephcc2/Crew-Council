@@ -45,7 +45,7 @@ set OPENAI_API_KEY=your_api_key_here
 (Change OPENAI to the LLM service you are accessing)
 
 ## Example Report
-# Topic: Effects Of Caffeine On Sleep
+**Topic: Effects Of Caffeine On Sleep**
 
 # Effects of Caffeine on Sleep: A Comprehensive Report
 
