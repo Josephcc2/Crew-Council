@@ -53,7 +53,9 @@ set OPENAI_API_KEY=your_api_key_here
 ![Background Info](https://github.com/user-attachments/assets/79baca84-b329-4f9d-8ba4-437a349dabc2)
 
 ## Architecture
-[Crew Council Arch.pdf](https://github.com/user-attachments/files/26491025/Crew.Council.Arch.pdf)
+![Crew Council Arch 1](https://github.com/user-attachments/assets/058592d9-8e74-4e94-9091-e28d30fb98ff)
+![Crew Council Arch 2](https://github.com/user-attachments/assets/d2f145b2-1d14-43e8-87fc-774200235843)
+
 
 ## Example Report
 **Topic: Effects Of Caffeine On Sleep**
