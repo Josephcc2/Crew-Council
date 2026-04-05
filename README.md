@@ -49,7 +49,11 @@ set OPENAI_API_KEY=your_api_key_here
 ```
 (Change OPENAI to the LLM service you are accessing)
 
+## Background Info
 ![Background Info](https://github.com/user-attachments/assets/79baca84-b329-4f9d-8ba4-437a349dabc2)
+
+## Architecture
+TBD
 
 ## Example Report
 **Topic: Effects Of Caffeine On Sleep**
