@@ -33,7 +33,12 @@ To kickstart your crew of AI agents and begin task execution, run this from the 
 $ crewai run
 ```
 
-This command initializes the gmail-testing-final Crew, assembling the agents and assigning them tasks as defined in your configuration.
+This command initializes the crew-council Crew, assembling the agents and assigning them tasks as defined in your configuration. Run the command for both crew_council and crew_council_claud
+
+To run each python script, run the following from each folder:
+```bash
+python name_of_script.py
+```
 
 ## API Setup
 Each Python script requires you to set the API key for each model through an environment variable.
@@ -43,6 +48,8 @@ For each script, run the command:
 set OPENAI_API_KEY=your_api_key_here
 ```
 (Change OPENAI to the LLM service you are accessing)
+
+![Background Info](https://github.com/user-attachments/assets/79baca84-b329-4f9d-8ba4-437a349dabc2)
 
 ## Example Report
 **Topic: Effects Of Caffeine On Sleep**
