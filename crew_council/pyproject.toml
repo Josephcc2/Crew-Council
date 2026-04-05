@@ -1,0 +1,24 @@
+[project]
+name = "crew_council"
+version = "0.1.0"
+description = "crew-council using crewAI"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+requires-python = ">=3.10,<3.14"
+dependencies = [
+    "crewai[tools]==1.7.2"
+]
+
+[project.scripts]
+crew_council = "crew_council.main:run"
+run_crew = "crew_council.main:run"
+train = "crew_council.main:train"
+replay = "crew_council.main:replay"
+test = "crew_council.main:test"
+run_with_trigger = "crew_council.main:run_with_trigger"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.crewai]
+type = "crew"
